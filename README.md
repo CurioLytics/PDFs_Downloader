@@ -40,3 +40,8 @@ Function: download_pdfs
 
 Main Function: main
 Execution: if __name__ == "__main__": main()
+
+## Future Development Ideas
+- Create a User Interface
+- Handle Multiple Authentications
+- Support Additional File Types
