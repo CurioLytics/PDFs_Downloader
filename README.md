@@ -1,5 +1,4 @@
-## Inspiration
-The idea for this project originated from my workflow. I often need to download all course files and store them in NotebookLM. However, this process is repetitive, which led me to think about automating it.
+
 
 ## Constraints:
 No Multiple Authentications:
@@ -41,7 +40,4 @@ Function: download_pdfs
 Main Function: main
 Execution: if __name__ == "__main__": main()
 
-## Future Development Ideas
-- Create a User Interface
-- Handle Multiple Authentications
-- Support Additional File Types
+
